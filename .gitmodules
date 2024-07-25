@@ -1,0 +1,3 @@
+[submodule "submodules/subModuleRepo"]
+	path = submodules/subModuleRepo
+	url = https://github.com/Deepak-RefactorQ/subModuleRepo.git
